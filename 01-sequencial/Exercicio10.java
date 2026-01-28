@@ -15,7 +15,7 @@ public class Exercicio10 {
 
         double metroPorSegundo = quilometro / 3.6;
 
-        System.out.printf("Velocidade em m/s(metro por segundo): %.2f", metroPorSegundo);
+        System.out.printf("Velocidade em m/s(metro por segundo): %.2f m/s", metroPorSegundo);
 
         sc.close();
     }
