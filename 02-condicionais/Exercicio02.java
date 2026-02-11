@@ -13,7 +13,7 @@ public class Exercicio02 {
         System.out.print("Digite um numero: ");
         double N = sc.nextDouble();
 
-        if(N >= 0){
+        if(N > 0){
             double raizQuadrada = Math.sqrt(N);
             System.out.printf("Raiz quadrada: %.2f", raizQuadrada);
         }
