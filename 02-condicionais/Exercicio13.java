@@ -16,7 +16,7 @@ public class Exercicio13 {
         double nota3 = sc.nextDouble();
 
         double notaTotal = nota1 + nota2 + (nota3 * 2);
-        double media = notaTotal / 3;
+        double media = notaTotal / 4;
 
         System.out.printf("Media: %.2f%n", media);
         
